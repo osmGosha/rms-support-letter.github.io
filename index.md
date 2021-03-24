@@ -216,8 +216,6 @@ Signed,
 
 [Vladimir Zorin](https://github.com/epicfilemcnulty)
 
-[Meri Amirkhanian](https://github.com/meri22)
-
-[George Linkovsky](https://github.com/Timofffee)
-
 [Aleksej Serdyukov](https://github.com/aleksejrs)
+
+[Igor Osminin](https://github.com/osmGosha)
